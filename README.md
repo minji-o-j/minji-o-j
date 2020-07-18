@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align=center>
+  
+**Hi there 👋**
+
+</div>
 
 <!--
 **minji-o-j/minji-o-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+  
 ![Minji's Stats](https://github-readme-stats.vercel.app/api?username=minji-o-j&hide=["stars"]&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777")
----
+
+</div>
