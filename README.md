@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <a href="https://github.com/minji-o-j" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=minji-o-j&show_icons=true&hide=["stars"]&title_color=333&text_color=777&icon_color=333" alt="Minji's Stats" >
-  </a>
-</p>
-
+![Minji's Stats](https://github-readme-stats.vercel.app/api?username=minji-o-j&hide=["stars"]&show_icons=true&title_color=333&text_color=777&icon_color=777")
 ---
+
