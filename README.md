@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jminji98@gmail.com)](mailto:jminji98@gmail.com)
-</div>
+<p align="center">
+  <a href="https://github.com/minji-o-j" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=minji-o-j&show_icons=true&hide=["stars"]&title_color=333&text_color=777&icon_color=333" alt="Minji's Stats" >
+  </a>
+</p>
+
+---
