@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 <div align=center>
 
 ![Minji's Stats](https://github-readme-stats.vercel.app/api?username=minji-o-j&hide=stars&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
   <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)
 
 -->
