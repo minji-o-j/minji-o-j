@@ -67,16 +67,16 @@ Here are some ideas to get you started:
    <!-- <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
     </a>-->
-    <a href="https://badges.pufler.dev">
+    <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://badges.pufler.dev">
+    <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://badges.pufler.dev">
+    <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
-    <a href="https://badges.pufler.dev">
+    <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
 </p>
