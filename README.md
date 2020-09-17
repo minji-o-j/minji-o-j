@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dev.to/minji">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="24px"/>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="45px"/>
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
-    <img src="https://img.icons8.com/ios-filled/256/000000/play-button" width="28px"/>
+    <img src="https://img.icons8.com/doodle/96/000000/youtube-play.png" width="50px"/>
   </a>
    &emsp;
   <a href="https://github.com/minji-o-j">
-    <img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="32px"/>
+    <img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="50px"/>
   </a>
   
   
