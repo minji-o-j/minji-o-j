@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dev.to/minji">
-    <img src="https://user-images.githubusercontent.com/45448731/93503085-8f989f00-f952-11ea-97c6-d677d21dca93.png" width="48px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/93503286-cf5f8680-f952-11ea-8d4d-845771b29ee5.png" width="48px"/>
     
   </a>
     &emsp;
