@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://dev.to/minji">
-    <img src="https://user-images.githubusercontent.com/45448731/93503286-cf5f8680-f952-11ea-8d4d-845771b29ee5.png" width="48px"/>
+  <a href="https://github.com/minji-o-j">
+    <img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="50px"/>
   </a>
    &emsp;
   <a href="https://github.com/minji-o-j/hi.hii">
@@ -50,9 +50,10 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/doodle/96/000000/youtube-play.png" width="50px"/>
   </a>
    &emsp;
-  <a href="https://github.com/minji-o-j">
-    <img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="50px"/>
+   <a href="https://dev.to/minji">
+    <img src="https://user-images.githubusercontent.com/45448731/93503286-cf5f8680-f952-11ea-8d4d-845771b29ee5.png" width="48px"/>
   </a>
+
 
   
   
