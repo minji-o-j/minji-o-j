@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </a>
    &emsp;
   <a href="https://github.com/minji-o-j">
-    <img src="https://img.icons8.com/ios-filled/256/000000/play-button" width="28px"/>
+    <img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="32px"/>
   </a>
   
   
