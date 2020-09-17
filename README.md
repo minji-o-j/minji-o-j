@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-
-
-
   <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)
@@ -38,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dev.to/minji">
-    <img src="https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="24px"/>
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="24px"/>
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
