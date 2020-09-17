@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dev.to/minji">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="45px"/>
+    <img src="https://icons8.com/icon/RHc13LPvNGNQ/0-percent.png" width="45px"/>
+    
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
