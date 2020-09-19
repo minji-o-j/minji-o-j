@@ -61,12 +61,13 @@ Here are some ideas to get you started:
 </p>
 <br><br>
   
+  
  <p align="center">
     <strong>Check out my work below!</strong>  
     <br><br>
-   <!-- <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/puf17640/puf17640?style=flat-square&color=black&logo=github">
-    </a>-->
+    <a href="https://github.com/minji-o-j">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
+    </a>
     <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
