@@ -76,3 +76,5 @@ Here are some ideas to get you started:
       <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=000000  &logo=github">  
     </a>
 </p>
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/minji-o-j)](https://badges.pufler.dev)
