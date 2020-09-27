@@ -77,4 +77,4 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/minji-o-j)](https://badges.pufler.dev)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/minji-o-j)
