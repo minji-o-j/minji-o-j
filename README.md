@@ -73,6 +73,6 @@ Here are some ideas to get you started:
       <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=000000&logo=github">
     </a>
     <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=000000&logo=github ">  
+      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=000000&logo=github">  
     </a>
 </p>
