@@ -64,15 +64,15 @@ Here are some ideas to get you started:
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
     </a>
     <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=000000&logo=github">
+      <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
     <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=000000&logo=github">
+      <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
     <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=000000&logo=github">
+      <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=black&logo=github">
     </a>
     <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=000000&logo=github">  
+      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
     </a>
 </p>
