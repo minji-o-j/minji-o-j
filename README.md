@@ -22,6 +22,26 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)-->
 
+ <!--<p align="center">
+    <strong>Check out my work below!</strong>  
+    <br><br>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=black&logo=github">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=black&logo=github">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
+    </a>
+</p>-->
+
 
 </div>
 
@@ -56,22 +76,4 @@ Here are some ideas to get you started:
 <br><br>
   
   
- <p align="center">
-    <strong>Check out my work below!</strong>  
-    <br><br>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=black&logo=github">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=black&logo=github">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
-    </a>
-</p>
+
