@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   </a>
    &emsp;
   <a href="mailto:jminji98@gmail.com">
-    <img src="https://user-images.githubusercontent.com/45448731/94515946-afd43200-025f-11eb-9e35-e1fb055f51ea.png" width="46px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/94598338-c7e09b80-02c9-11eb-81b6-614a862468fa.png" width="46px"/>
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
