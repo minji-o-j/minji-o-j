@@ -68,7 +68,6 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/dusk/64/000000/youtube.png" width="50px"/>
   </a>
 
-<img src=/>
   
   
 </p>
