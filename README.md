@@ -65,10 +65,10 @@ Here are some ideas to get you started:
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
-    <img src="https://img.icons8.com/doodle/96/000000/youtube-play.png" width="50px"/>
+    <img src="https://img.icons8.com/dusk/64/000000/youtube.png" width="50px"/>
   </a>
 
-
+<img src=/>
   
   
 </p>
