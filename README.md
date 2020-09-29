@@ -69,8 +69,11 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/45448731/94516042-e9a53880-025f-11eb-9b79-516d7c1b9d5d.png" width="48px"/>
   </a>
   
-  <br>
-  
+
+</p>
+
+<br><br>
+<p align="center" 
   <a href="https://github.com/minji-o-j">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
     </a>
