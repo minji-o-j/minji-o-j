@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   </a>
    &emsp;
   <a href="https://github.com/minji-o-j/hi.hii">
-    <img src="https://user-images.githubusercontent.com/45448731/93504489-84467300-f954-11ea-827a-483f061b8335.png" width="46px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/94515428-7cdd6e80-025e-11eb-84e1-47522ec361ec.png" width="46px"/>
   </a>
    &emsp;
   <a href="mailto:jminji98@gmail.com">
