@@ -18,14 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-
-fix
-
-
-
-  <!--
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)-->
 
 
 </div>
@@ -80,4 +75,3 @@ fix
       <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
     </a>
 </p>
--->
