@@ -51,27 +51,24 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/minji-o-j">
-    <img src="https://img.icons8.com/dusk/64/000000/github.png" width="50px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/94515797-5d931100-025f-11eb-83e7-31e0531bf256.png" width="49px"/>
   </a>
    &emsp;
   <a href="https://github.com/minji-o-j/hi.hii">
-    <img src="https://user-images.githubusercontent.com/45448731/94515428-7cdd6e80-025e-11eb-84e1-47522ec361ec.png" width="46px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/94515850-7bf90c80-025f-11eb-8c7c-5224f72f732a.png" width="50px"/>
   </a>
    &emsp;
   <a href="mailto:jminji98@gmail.com">
-    <img src="https://img.icons8.com/dusk/64/000000/apple-mail.png" width="50px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/94515946-afd43200-025f-11eb-9e35-e1fb055f51ea.png" width="46px"/>
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
-    <img src="https://img.icons8.com/dusk/64/000000/youtube.png" width="50px"/>
+    <img src="https://user-images.githubusercontent.com/45448731/94516042-e9a53880-025f-11eb-9b79-516d7c1b9d5d.png" width="48px"/>
   </a>
-
-  
-  
 </p>
-<br><br>
   
   
 
