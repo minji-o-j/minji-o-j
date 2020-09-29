@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   </a>
    &emsp;
   <a href="mailto:jminji98@gmail.com">
-    <img src="https://img.icons8.com/doodle/96/000000/mail-contact.png" width="50px"/>
+    <img src="https://img.icons8.com/dusk/64/000000/apple-mail.png" width="50px"/>
   </a>
     &emsp;
   <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
