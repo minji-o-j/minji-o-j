@@ -42,7 +42,6 @@ Here are some ideas to get you started:
     </a>
 </p>-->
 
-
 </div>
 
 <p align="center">
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/minji-o-j">
-    <img src="https://img.icons8.com/doodle/96/000000/github--v1.png" width="50px"/>
+    <img src="https://img.icons8.com/dusk/64/000000/github.png" width="50px"/>
   </a>
    &emsp;
   <a href="https://github.com/minji-o-j/hi.hii">
