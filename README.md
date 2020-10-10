@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
+</p>
+<p align="center">
   <a href="https://github.com/minji-o-j" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=minji-o-j&hide=stars&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=false">
     <![Minji's Stats](https://github-readme-stats.vercel.app/api?username=minji-o-j&hide=stars&hide_title=true&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=false)>
