@@ -83,5 +83,7 @@ Here are some ideas to get you started:
   
   <!--트로피
 <img src="https://github-profile-trophy.vercel.app/?username=minji-o-j&column=7&theme=onedark" />-->
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
