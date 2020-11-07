@@ -85,49 +85,28 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=minji-o-j&column=7&theme=onedark" />-->
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 3,393 Contributions in the Year 2020
- > 
-> 📦 767.9 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 34 Public Repositories
- > 
-> 🔑 2 Private Repositories 
-
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    123 commits    [█------------------------]   5.73% 
-🌆 Daytime    478 commits    [█████--------------------]   22.28% 
-🌃 Evening    502 commits    [█████--------------------]   23.4% 
-🌙 Night      1042 commits   [████████████-------------]   48.58%
+🌆 Daytime    478 commits    [█████--------------------]   22.27% 
+🌃 Evening    503 commits    [█████--------------------]   23.44% 
+🌙 Night      1042 commits   [████████████-------------]   48.56%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       320 commits    [███----------------------]   14.92% 
-Tuesday      352 commits    [████---------------------]   16.41% 
+Monday       320 commits    [███----------------------]   14.91% 
+Tuesday      352 commits    [████---------------------]   16.4% 
 Wednesday    298 commits    [███----------------------]   13.89% 
-Thursday     326 commits    [███----------------------]   15.2% 
-Friday       270 commits    [███----------------------]   12.59% 
-Saturday     252 commits    [███----------------------]   11.75% 
+Thursday     326 commits    [███----------------------]   15.19% 
+Friday       270 commits    [███----------------------]   12.58% 
+Saturday     253 commits    [███----------------------]   11.79% 
 Sunday       327 commits    [███----------------------]   15.24%
 
 ```
 
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 
 **I Mostly Code in Jupyter Notebook** 
 
