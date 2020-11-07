@@ -85,25 +85,58 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=minji-o-j&column=7&theme=onedark" />-->
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 3,393 Contributions in the Year 2020
+ > 
+> 📦 767.9 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 34 Public Repositories
+ > 
+> 🔑 2 Private Repositories 
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    123 commits    [█------------------------]   5.74% 
-🌆 Daytime    478 commits    [█████--------------------]   22.29% 
-🌃 Evening    500 commits    [█████--------------------]   23.32% 
-🌙 Night      1043 commits   [████████████-------------]   48.65%
+🌞 Morning    123 commits    [█------------------------]   5.73% 
+🌆 Daytime    478 commits    [█████--------------------]   22.28% 
+🌃 Evening    502 commits    [█████--------------------]   23.4% 
+🌙 Night      1042 commits   [████████████-------------]   48.58%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       320 commits    [███----------------------]   14.93% 
-Tuesday      352 commits    [████---------------------]   16.42% 
-Wednesday    298 commits    [███----------------------]   13.9% 
-Thursday     326 commits    [███----------------------]   15.21% 
+Monday       320 commits    [███----------------------]   14.92% 
+Tuesday      352 commits    [████---------------------]   16.41% 
+Wednesday    298 commits    [███----------------------]   13.89% 
+Thursday     326 commits    [███----------------------]   15.2% 
 Friday       270 commits    [███----------------------]   12.59% 
-Saturday     250 commits    [███----------------------]   11.66% 
-Sunday       328 commits    [███----------------------]   15.3%
+Saturday     252 commits    [███----------------------]   11.75% 
+Sunday       327 commits    [███----------------------]   15.24%
+
+```
+
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         8 repos             [██████-------------------]   25.81% 
+Python                   7 repos             [█████--------------------]   22.58% 
+Java                     6 repos             [████---------------------]   19.35% 
+C++                      4 repos             [███----------------------]   12.9% 
+C#                       3 repos             [██-----------------------]   9.68%
 
 ```
 
