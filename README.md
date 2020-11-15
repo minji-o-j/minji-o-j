@@ -1,9 +1,3 @@
-<div align=center>
-  
-</div>
-
-
-
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
 </p>
@@ -45,46 +39,14 @@
 
 
 
-
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    126 commits    [█------------------------]   5.7% 
-🌆 Daytime    486 commits    [█████--------------------]   21.99% 
-🌃 Evening    521 commits    [██████-------------------]   23.57% 
-🌙 Night      1077 commits   [████████████-------------]   48.73%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       352 commits    [████---------------------]   15.93% 
-Tuesday      348 commits    [████---------------------]   15.75% 
-Wednesday    308 commits    [███----------------------]   13.94% 
-Thursday     326 commits    [███----------------------]   14.75% 
-Friday       270 commits    [███----------------------]   12.22% 
-Saturday     258 commits    [███----------------------]   11.67% 
-Sunday       348 commits    [████---------------------]   15.75%
-
-```
-
-
-**💻 I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         10 repos            [███████------------------]   30.3% 
-Java                     6 repos             [████---------------------]   18.18% 
-Python                   6 repos             [████---------------------]   18.18% 
-C++                      4 repos             [███----------------------]   12.12% 
-C#                       3 repos             [██-----------------------]   9.09%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
+</details>
 
 
 
