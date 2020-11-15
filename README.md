@@ -2,46 +2,7 @@
   
 </div>
 
-<!--**minji-o-j/minji-o-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align=center>
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)-->
-
- <!--<p align="center">
-    <strong>Check out my work below!</strong>  
-    <br><br>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=black&logo=github">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=black&logo=github">
-    </a>
-    <a href="https://github.com/minji-o-j">
-      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
-    </a>
-</p>-->
-
-</div>
 
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
@@ -81,8 +42,9 @@ Here are some ideas to get you started:
     </a>
 </p>
   
-  <!--트로피
-<img src="https://github-profile-trophy.vercel.app/?username=minji-o-j&column=7&theme=onedark" />-->
+
+
+
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -122,3 +84,49 @@ C#                       3 repos             [██-----------------------]   9
 
 
 <!--END_SECTION:waka-->
+
+
+
+
+<!--여기서부터 just 복사해놓은것들################################################################################################################################-->
+
+  <!--트로피
+<img src="https://github-profile-trophy.vercel.app/?username=minji-o-j&column=7&theme=onedark" />-->
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji-o-j&hide=jupyter%20notebook&title_color=333)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minji-o-j&repo=hi.hii)](https://github.com/minji-o-j/hi.hii)-->
+
+ <!--<p align="center">
+    <strong>Check out my work below!</strong>  
+    <br><br>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/years/minji-o-j?style=flat-square&color=black&logo=github">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/repos/minji-o-j?style=flat-square&color=black&logo=github">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/gists/minji-o-j?style=flat-square&color=black&logo=github">
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
+    </a>
+</p>-->
+
+<!--**minji-o-j/minji-o-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
