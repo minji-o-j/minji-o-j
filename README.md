@@ -35,7 +35,7 @@
   
 
 <details open>
-<summary> 😇 <b>My Github Stats</b>: </summary>
+<summary> 🙋‍♀️ <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">  
    <a href="https://github.com/minji-o-j" class="rich-diff-level-one">
