@@ -9,7 +9,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-20.04 #ubuntu-latest
     steps:
       - uses: minji-o-j/waka-readme-stats@master 
         with:
