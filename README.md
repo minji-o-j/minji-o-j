@@ -30,7 +30,9 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
     </a>
 </p>
-  
+
+
+---
 
 <details open>
 <summary> 🙋‍♀️ <b>My Github Stats</b>: </summary>
