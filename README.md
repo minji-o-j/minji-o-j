@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
 </p>
-<p align="center">
 
-</p>
 
 
 <p align="center">
@@ -64,11 +62,11 @@
 
 ```text
 Monday       380 commits    [███----------------------]   15.45% 
-Tuesday      351 commits    [███----------------------]   14.27% 
+Tuesday      358 commits    [███----------------------]   14.56% 
 Wednesday    360 commits    [███----------------------]   14.64% 
 Thursday     327 commits    [███----------------------]   13.3% 
 Friday       342 commits    [███----------------------]   13.91% 
-Saturday     310 commits    [███----------------------]   12.61% 
+Saturday     303 commits    [███----------------------]   12.32% 
 Sunday       389 commits    [████---------------------]   15.82%
 
 ```
