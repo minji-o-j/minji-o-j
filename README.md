@@ -44,7 +44,6 @@
   </a> 
 </p> 
 </details>
-<br><br>
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
