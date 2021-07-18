@@ -2,27 +2,8 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
 </p>
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/317bh6yf76hsqssei6el2z4y6fli)
 
-
-<p align="center">
-  <a href="https://github.com/minji-o-j">
-    <img src="https://user-images.githubusercontent.com/45448731/94515797-5d931100-025f-11eb-83e7-31e0531bf256.png" width="49px"/>
-  </a>
-   &emsp;
-  <a href="https://github.com/minji-o-j/hi.hii">
-    <img src="https://user-images.githubusercontent.com/45448731/94515850-7bf90c80-025f-11eb-8c7c-5224f72f732a.png" width="50px"/>
-  </a>
-   &emsp;
-  <a href="mailto:jminji98@gmail.com">
-    <img src="https://user-images.githubusercontent.com/45448731/94515946-afd43200-025f-11eb-9e35-e1fb055f51ea.png" width="46px"/>
-  </a>
-    &emsp;
-  <a href="https://www.youtube.com/channel/UCzLFH4czKjaB32QzlUzKYhg?view_as=subscriber">
-    <img src="https://user-images.githubusercontent.com/45448731/94516042-e9a53880-025f-11eb-9b79-516d7c1b9d5d.png" width="48px"/>
-  </a>
-  
-
-</p>
 
 <br><br>
 <p align="center" 
