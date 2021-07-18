@@ -2,7 +2,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
 </p>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/317bh6yf76hsqssei6el2z4y6fli)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317bh6yf76hsqssei6el2z4y6fli&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 <br><br>
