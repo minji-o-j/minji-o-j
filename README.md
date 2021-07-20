@@ -1,8 +1,7 @@
 <p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="50px"/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"/> HELLO!
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317bh6yf76hsqssei6el2z4y6fli&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 <br><br>
