@@ -1,7 +1,7 @@
 
 <p align="center" 
   <a href="https://github.com/minji-o-j">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20Welcome%20to%20Minji's%20Github!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐢𝐧𝐣𝐢'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
   </a>
   <br> 
   <a href="https://github.com/minji-o-j">
