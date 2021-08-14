@@ -1,11 +1,9 @@
-<p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"/> HELLO!
-</p>
 
-
-
-<br><br>
 <p align="center" 
+  <a href="https://github.com/minji-o-j">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hi,%20Welcome%20to%20Minji's%20Github!%F0%9F%91%8B&fontSize=36&animation=fadeIn&fontAlignY=36">
+  </a>
+  <br> 
   <a href="https://github.com/minji-o-j">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji-o-j&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true">
     </a>
