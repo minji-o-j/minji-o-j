@@ -66,7 +66,8 @@ C#                       3 repos             [██-----------------------]   8
 
 
 <!--END_SECTION:waka-->
-
+<br>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jminji98)](https://solved.ac/jminji98/)
 <br>
   
