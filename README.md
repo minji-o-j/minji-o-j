@@ -26,6 +26,7 @@
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
+ 
   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -66,6 +67,9 @@ C#                       3 repos             [██-----------------------]   8
 
 <!--END_SECTION:waka-->
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jminji98)](https://solved.ac/jminji98/)
+<br>
+  
 </details>
 
 
