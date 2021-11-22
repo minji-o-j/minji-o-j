@@ -102,6 +102,12 @@ C#                       3 repos             [██-----------------------]   8
     <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
     </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Minji913/competition/light">  
+    </a>
+    <a href="https://github.com/minji-o-j">
+      <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
+    </a>
 </p>-->
 
 <!--**minji-o-j/minji-o-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
