@@ -73,6 +73,7 @@ C#                       3 repos             [██-----------------------]   8
 <a href="https://github.com/minji-o-j">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/Minji913/competition/light">  
 </a>
+<a href="https://opgc.me/#/users/minji-o-j" target="_blank"><img src="https://api.opgc.me/githubs/users/minji-o-j/tag/?theme=basic" /></a>
 </details>
 
 
@@ -104,6 +105,7 @@ C#                       3 repos             [██-----------------------]   8
     <a href="https://github.com/minji-o-j">
       <img src="https://badges.pufler.dev/commits/monthly/minji-o-j?style=flat-square&color=black&logo=github">  
     </a>
+
 
 
 </p>-->
