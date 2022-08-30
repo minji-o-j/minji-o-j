@@ -1,7 +1,9 @@
 
+
+
 <p align="center" 
   <a href="https://github.com/minji-o-j">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=𝐇𝐢, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐢𝐧𝐣𝐢'𝐬 𝐆𝐢𝐭𝐡𝐮𝐛!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=%F0%9D%90%87%F0%9D%90%A2,%20%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%9E%20%F0%9D%90%AD%F0%9D%90%A8%20%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A3%F0%9D%90%A2%27%F0%9D%90%AC%20%F0%9D%90%86%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%AE%F0%9D%90%9B!!%F0%9F%A5%B0&fontSize=36&animation=fadeIn&fontAlignY=36">
   </a>
   <br> 
   <a href="https://github.com/minji-o-j">
